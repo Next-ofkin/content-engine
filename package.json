@@ -1,0 +1,24 @@
+{
+  "name": "content-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Next-ofkin/content-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Next-ofkin/content-engine/issues"
+  },
+  "homepage": "https://github.com/Next-ofkin/content-engine#readme",
+  "dependencies": {
+    "openai": "^6.44.0"
+  }
+}
