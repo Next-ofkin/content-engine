@@ -1,0 +1,6 @@
+{
+  "niche": "Nigerian and African business and fintech facts",
+  "tone": "surprising, conversational, easy to understand",
+  "setUntil": null,
+  "notes": "Default starting niche. Edit 'niche' anytime to change direction. Set 'setUntil' to a date like '2026-07-15' if you want it to auto-revert to default after that date."
+}
