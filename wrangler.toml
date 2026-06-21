@@ -1,0 +1,8 @@
+name = "content-engine"
+main = "scripts/worker.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "content-engine-db"
+database_id = "00f84ae4-7874-4232-ad52-b058a46fb95a"

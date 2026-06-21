@@ -27,7 +27,8 @@ Keep total script under 60 words. Output ONLY the three labeled parts, nothing e
   });
 
   const script = response.choices[0].message.content;
-  fs.writeFileSync("./scripts/latest-script.txt", script);
+  // UPDATED PATH BELOW:
+  fs.writeFileSync("./output/latest-script.txt", script);
   console.log("Script generated:");
   console.log(script);
 }
